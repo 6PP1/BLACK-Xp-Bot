@@ -69,9 +69,13 @@ DB_NAME=discord-leveling
 # .env 
 
 BOT_TOKEN=
+
 CLIENT_ID=
+
 MONGO_URI=
+
 DB_NAME=
+
 ---
 
 👨‍💻 المطور:
