@@ -79,6 +79,8 @@ DB_NAME=
 ---
 
 👨‍💻 المطور:
-6PP1
+Discord :  6p_9
+
+server dev : https://discord.gg/nT4vpMvaST
 
 ---
